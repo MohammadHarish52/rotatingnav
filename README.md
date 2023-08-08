@@ -1,1 +1,1 @@
-Contains A project rom brad traversy HTMl css and js 50 day project
+Contains A project from brad traversy HTMl css and js 50 day project
